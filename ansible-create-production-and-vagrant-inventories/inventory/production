@@ -1,0 +1,4 @@
+host1 ansible_ssh_host=host1.example.com ansible_ssh_user=root ansible_ssh_private_key_file=some-pricate-key
+
+[deploy]
+host1 hostname=host1
